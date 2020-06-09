@@ -1,0 +1,9 @@
+main: cn.wode490390.nukkit.shpop.StrongholdPlugin
+name: "StrongholdPopulator"
+description: "This is a plugin that implements the stronghold feature for Nukkit servers"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: STARTUP
+softdepend: ["MobPlugin"]
